@@ -1,5 +1,7 @@
 # Griffith University Courses
 
+## [Capstone Project - Data Labelling using Generative AI](https://github.com/C-KAII/cybersecurity-data-labelling-with-gen-ai)
+
 ## [Programming Fundamentals](https://github.com/C-KAII/programming-fundamentals)
 
 - [C: High Performant Custom Data Structures](https://github.com/C-KAII/programming-fundamentals/blob/main/high-performance-custom-data-structures)
